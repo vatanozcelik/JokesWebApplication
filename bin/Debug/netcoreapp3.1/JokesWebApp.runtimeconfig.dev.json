@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\vatan\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\vatan\\.nuget\\packages"
+    ]
+  }
+}
